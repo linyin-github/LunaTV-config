@@ -1,5 +1,10 @@
 # →通过ACTION每天检测视频源可用性，更新报告提交到（linyin-github）仓库
-# →https://moontvplus.jiangk.top/使用本项目代理后地址作为资源配置
+# →使用本项目代理后地址作为资源配置：https://moontvplus.jiangk.top/
+
+---
+---
+---
+
 
 # 以下是原项目README
 # MoonTV/LunaTV 配置编辑器
